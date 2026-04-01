@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently collaborating on: developing an administration app<br>📚 I’m currently learning: Python and UX Research/Design<br>💬 Ask me about: Digital Design, birds and horses<br>🛹 Fun fact about me: In my free time I like to skate
+💻 I’m currently collaborating on: designing & developing some apps and websites for schoolprojects<br>📚 I’m currently learning: Python and UX Research/Design<br>💬 Ask me about: Digital Design, birds and horses<br>🛹 Fun fact about me: In my free time I like to skate
 
 # 💻 Tech Stack I am working on:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
